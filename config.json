@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coadingthunder",
+    "prod_uri": "mysql://root:@localhost/coadingthunder",
+    "fb_url": "https://facebook.com/CodingThunder",
+    "tw_url": "https://twitter.com/CodingThunder",
+    "gh_url": "https://github.com/CodingThunder",
+    "blog_name": "Coading Thunder",
+    "gmail_user": "rp738899@gmail.com",
+    "gmail_password": "rahu276!%",
+    "About_text": "Hi , I am a student in IIIT Jabalpur and currently trying to making a flask blog page . I think python is so amazing to do some stuffs and its libraries are quite interesting and easy to do.I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I also wanted to be a great programmer, Of course, yet. I am just someone who does some teaching, some research, and some writing. But my dream is still alive.\n\nThis is a brief introduction of myself. If you are interested in knowing more, read my articles or contact me by sending yr thoughts and messages in contact page of TheCoadingThunder. Do not expect too much, and keep your sense of humor.",
+    "no_of_posts": 2,
+    "admin_user": "Aryan",
+    "admin_password": "akaryan",
+    "upload_location": "C:\\Users\\kumar satwik kaushal\\PycharmProjects\\Flask-tut\\static"
+
+  }
+
+
+
+}
